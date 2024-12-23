@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @tbstubs
+- 👀 I’m interested in computer science and all things technology
+- 🌱 I’m currently learning Django and React
+- 💞️ I’m looking to collaborate on projects based in Python or Javascript
+- 📫 How to reach me github@tbstubs
+- ⚡ Fun fact: I love to cook

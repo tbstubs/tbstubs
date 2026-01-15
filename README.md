@@ -15,4 +15,4 @@ Results-driven data analyst with 5+ years driving operational excellence through
 
 ### 📫 Let's Connect
 - LinkedIn: [[linkedin.com/in/taylor-stobinski](https://www.linkedin.com/in/taylor-stobinski/)](link)
-- Portfolio: taylorstobinski.com
+- Portfolio: ([taylorstobinski.com](https://www.taylorstobinski.com/)](link)

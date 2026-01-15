@@ -9,10 +9,10 @@ Results-driven data analyst with 5+ years driving operational excellence through
 - **Tools:** Git, Excel, Google Workspace
 
 ### 📊 Featured Projects
-- [Student Information System Database](link) - PostgreSQL schema with complex queries
+- [[Student Information System Database](https://github.com/tbstubs/school-sql-analytics)](link) - PostgreSQL schema with complex queries
 - RPG Game Aid - Django web application (coming soon)
 - Artistic Personal Portfolio - taylorstobinski.com
 
 ### 📫 Let's Connect
-- LinkedIn: [linkedin.com/in/taylor-stobinski](link)
+- LinkedIn: [[linkedin.com/in/taylor-stobinski](https://www.linkedin.com/in/taylor-stobinski/)](link)
 - Portfolio: taylorstobinski.com

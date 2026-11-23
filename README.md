@@ -8,6 +8,8 @@ Based in Boston, MA.
 
 ### Featured Work
 
+**[hrrp-pipeline](https://github.com/tbstubs/hrrp-pipeline)** - An end-to-end analytics pipeline that organizes CMS (Centers for Medicare & Medicaid Services) hospital quality data. Its primary purpose is to answer the questions: which hospitals are readmitting patients more often than their peers, and what else is true about those hospitals? This project was built to organize and explore what hospitals navigate with the HRRP (Hospital Readmissions Reduction Program) and new changes around HRRP that are starting in 2027 through 2030.
+
 **[enrollment-reporting-etl](https://github.com/tbstubs/enrollment-reporting-etl)** - Production Python pipeline automating enrollment and revenue reporting for leadership at a nonprofit music school. Drives a Playwright headless browser through multi-step authentication against a legacy ASP.NET SaaS, transforms with Pandas, resolves every enrollment to a general-ledger account through a rules-based mapping engine with ordered precedence, and writes a templated Excel report for budget forecasting.
 
 **[school-sql-analytics](https://github.com/tbstubs/school-sql-analytics)** - PostgreSQL Student Information System schema covering students, enrollments, invoices, and payments, exercising JOINs, GROUP BY aggregations, and complex analytical queries.
